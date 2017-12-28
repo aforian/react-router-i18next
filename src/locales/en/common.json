@@ -1,0 +1,7 @@
+{
+  "appName": "react-i18next-app",
+  "blessing": "Happy New Year!!",
+  "count": ["a","b","c","d","e"],
+  "cost": 50,
+  "currency": "USD"
+}

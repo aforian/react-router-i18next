@@ -1,0 +1,7 @@
+{
+  "appName": "react多語系應用",
+  "blessing": "新年快樂！",
+  "count": ["一","二","三","四","五"],
+  "cost": 1500,
+  "currency": "TWD"
+}

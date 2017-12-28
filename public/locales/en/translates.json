@@ -1,0 +1,13 @@
+{
+  "appName": "react-i18next-app",
+  "appLanguage": "English",
+  "blessing": "Happy New Year!!",
+  "count": ["a","b","c","d","e"],
+  "cost": 50,
+  "currency": "USD",
+  "pageName" : {
+    "home" : "Home",
+    "about" : "About",
+    "contact" : "Contact"
+  }
+}

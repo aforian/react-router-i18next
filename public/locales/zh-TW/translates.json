@@ -1,0 +1,13 @@
+{
+  "appName": "react多語系應用",
+  "appLanguage": "繁體中文",
+  "blessing": "新年快樂！",
+  "count": ["一","二","三","四","五","六","七"],
+  "cost": 1500,
+  "currency": "TWD",
+  "pageName" : {
+    "home" : "首頁",
+    "about" : "關於",
+    "contact" : "聯絡"
+  }
+}

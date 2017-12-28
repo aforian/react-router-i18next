@@ -1,0 +1,13 @@
+{
+  "appName": "react多言語アプリケーション",
+  "appLanguage": "日本語",
+  "blessing": "幸せな新年！",
+  "count": ["ㄅ","ㄆ","ㄇ","ㄈ","ㄉ","ㄊ","ㄋ"],
+  "cost": 1500,
+  "currency": "JPY",
+  "pageName" : {
+    "home" : "ホーム",
+    "about" : "約",
+    "contact" : "接触"
+  }
+}
